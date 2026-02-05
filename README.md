@@ -7,9 +7,9 @@ This project implements a two-layer ETL pipeline for the UCI Diabetes 130-US Hos
 
 ## Repository Structure
 
-- `agel_orchestrator.Notebook/notebook-content.py` - parent pipeline orchestration + report generation
-- `agel_diabetes_bronze_ntb.Notebook/notebook-content.py` - raw ingestion (download + extract)
-- `agel_diabetes_silver_ntb.Notebook/notebook-content.py` - curation, validation, and analytics
+- `agel_orchestrator` - parent pipeline orchestration + report generation
+- `agel_diabetes_bronze_ntb` - raw ingestion (download + extract)
+- `agel_diabetes_silver_ntb` - curation, validation, and analytics
 - `agel_lh.Lakehouse/` - Lakehouse metadata
 
 ## Setup
