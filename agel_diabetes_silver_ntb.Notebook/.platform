@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "agel_diabetes_silver_ntb"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4b101f85-65d0-a861-41d9-1542fa29a0d4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "agel_orchestrator"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e5ccb00e-5381-94be-45e3-36f8f421dd85"
+  }
+}
